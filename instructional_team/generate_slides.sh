@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 folder_md="./markdown_slides"
-folder_output="../slides/" # This will be used for both PDF and HTML
+folder_output="../slides" # This will be used for both PDF and HTML
 
 # Clear the screen for the splash screen
 clear
