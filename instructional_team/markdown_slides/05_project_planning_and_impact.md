@@ -147,11 +147,11 @@ As you transition from the certificate program, continue to build and showcase y
 
 - **Active Portfolio**: Aim for 5-6 substantial projects to demonstrate a broad range of skills. Focus on quality over quantity.
 - **Explore and Learn**: Continue exploring new areas within data science and machine learning to keep your knowledge current and dynamic.
-- **Peer Collaboration**: Participate in group projects with fellow graduates to enhance your skills and widen your professional network.
+- **Peer Collaboration**: Participate in group projects with fellow participants to enhance your skills and widen your professional network.
 
 Actively applying for jobs should proceed in tandem with these activities.
 
-<!-- Speaker notes: Emphasize that maintaining a portfolio with 5-6 diverse projects is ideal for demonstrating a commitment to the field and depth of skills. Clarify that the focus should be on the quality of projects rather than simply meeting a numerical target. Encourage graduates to continuously apply for jobs, using their portfolios to strengthen their applications and showcase their ongoing engagement and expertise. Remind them that even after the modules end, they still have access to the Slack community (more information will come out later). This platform can be a valuable resource for finding project partners, asking questions, and getting feedback on their work. Additionally, advise them to present completed projects on LinkedIn. This not only timestamps their active engagement in relevant projects during job searches but also enhances their visibility and personal branding on a professional network. -->
+<!-- Speaker notes: Emphasize that maintaining a portfolio with 5-6 diverse projects is ideal for demonstrating a commitment to the field and depth of skills. Clarify that the focus should be on the quality of projects rather than simply meeting a numerical target. Encourage participants to continuously apply for jobs, using their portfolios to strengthen their applications and showcase their ongoing engagement and expertise. Remind them that even after the modules end, they still have access to the Slack community (more information will come out later). This platform can be a valuable resource for finding project partners, asking questions, and getting feedback on their work. Additionally, advise them to present completed projects on LinkedIn. This not only timestamps their active engagement in relevant projects during job searches but also enhances their visibility and personal branding on a professional network. -->
 
 ---
 
