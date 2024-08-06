@@ -38,7 +38,7 @@ A good portfolio showcases your best work and highlights skills that are highly 
 
 # Types of Projects to Include in Your Portfolio
 
-Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including these key project types to demonstrate your breadth and depth in data science:
+Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including a variety of project types to demonstrate the breadth and depth of your data science skills:
 
 1. **Data Cleaning Project:** Show your ability to prepare data for analysis.
 2. **Data Storytelling and Visualization Project:** Highlight your skills in interpreting and presenting data in compelling ways.
@@ -54,13 +54,28 @@ For more, read "[How to Create a Project Portfolio for Data Science Job Applicat
 
 Choosing the right projects for your portfolio is crucial. Each project should:
 
-- **Solve Real Problems**: Use actual datasets to address genuine issues in your field.
+- **Solve Real Problems**: Use actual datasets to address genuine issues in your field. (*examples in the next slide*)
 - **Demonstrate Industry Relevance**: Select projects that are pertinent to your specific area, such as marketing analytics for marketers or predictive maintenance for engineers.
 - **Provide Actionable Insights**: Focus on projects that deliver clear, practical outcomes that demonstrate your ability to impact real-world scenarios.
 
 These criteria ensure that your projects not only highlight your technical skills but also your understanding of and adaptability to industry-specific challenges, making you a valuable candidate to potential employers.
 
 ---
+
+# Some Open Source Real Datasets
+
+- **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
+- **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
+- **Ontario Data Catalogue**: [data.ontario.ca](https://data.ontario.ca)
+- **Kaggle Datasets**: [kaggle.com/datasets](https://www.kaggle.com/datasets)
+- **UCI Machine Learning Repository**: [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php)
+- **World Bank Open Data**: [data.worldbank.org](https://data.worldbankzorg)
+
+Utilize these resources to find relevant datasets that can help you build projects showcasing your ability to solve real-world problems, demonstrate industry relevance, and provide actionable insights.
+
+---
+
+Let me know if this works for you or if you need any further adjustments!
 
 # Showcase Projects That Use Diverse Data Types
 
@@ -74,10 +89,10 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 ---
 
-# Demonstrating Technical and Non-Technical Skills
+# Demonstrating Technical and Business Skills
 
-- **Demonstrate Coding Proficiency**: Include projects that showcase your ability to write clean, efficient, and well-documented code.
-- **Showcase Communication Skills**: Feature projects where you’ve effectively communicated complex data-driven insights to non-technical stakeholders.
+- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
+- **Showcase Communication Skills**: All projects should effectively communicated complex data-driven insights to Non-technical team members.
 
 Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
 
@@ -86,7 +101,7 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 # Crafting a Comprehensive Main README File
 
-- **Purpose & Overview:** Introduce the project with essential details and a concise description.
+- **Purpose & Overview:** Introduce the project with essential details, concise description and a project objective.
 - **Goals & Objectives:** Articulate what the project aims to achieve.
 - **Techniques & Technologies:** Highlight the tools and methods used.
 - **Key Findings & Instructions:** Summarize outcomes and provide setup instructions.
@@ -101,7 +116,7 @@ Focus on the essence of what makes a README effective: clarity and conciseness. 
 
 # Better Documentation - README
 
-While **you can have multiple README files** in your repository, adhere to the rule of maintaining just one README file per folder to keep each section clear and organized. This structure not only aids in navigation but also showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
+While **you can have multiple README files** in your repository, include only one README file per folder to keep things clean and simple. This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
 
 
 ---
@@ -148,6 +163,7 @@ console.log(totalPrice); // Output: 125
 - The STAR method is typically used for answering interview questions, applying this structure to your project overviews can be highly effective. 
 - By organizing your projects using the Situation, Task, Action, Result format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
 - This approach ensures that employers can clearly understand the value and impact of your work, even without direct interaction.
+- Remember, the results don't have to be ground breaking, anything that showcases your abilities in data science/machine learning, even "**learning**" counts as an important result.
 
 ---
 

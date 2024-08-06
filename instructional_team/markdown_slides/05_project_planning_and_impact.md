@@ -64,15 +64,20 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
 
 Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
 
-**Spikes** are short, time-boxed research or exploration tasks designed to answer specific questions or solve particular problems before starting the main project work.
+**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
 
-### Benefits of Spikes:
+---
+
+# Benefits of Spikes
 
 - **Clarify Requirements**: Quickly gather necessary information.
 - **Solve Problems Early**: Address technical uncertainties before main development.
 - **Prevent Delays**: Avoid excessive brainstorming that can stall progress.
+- **Reduce Unknowns**: Lower the project's uncertainties.
+- **Efficient Estimates**: Provide well-constrained estimates on specific work items.
+- **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
 
-<!-- Speaker notes: Instructor Phil noted that during Team Project 1, students often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. -->
+<!-- Speaker notes: Instructor Phil noted that during Team Project 1, students often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
 
 ---
 
@@ -138,6 +143,32 @@ Clear communication ensures your projects are comprehensible to all, enhancing y
 <!-- Speaker notes: Emphasize the need to make data science projects accessible to non-experts, including those in HR and recruitment. Discuss using analogies, incremental explanations, and visual aids to clarify complex ideas. This approach not only makes your work more impactful but also supports your candidacy during job evaluations. -->
 
 ---
+
+# Example of Making Complex Concepts Accessible
+
+### Remember the "Healthcare Example" above?
+
+Before:
+```
+"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas 
+to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its 
+interpretability and performance."
+```
+After:
+```
+“Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of the predictive model as a way
+to forecast patient health based on past data, much like predicting the weather. Data was preprocessed using pandas to handle
+missing values and standardize features. This preprocessing is like organizing and cleaning up messy medical records to ensure all
+information is complete and consistent. Logistic regression was selected through cross-validation due to its interpretability and
+performance. Imagine trying  different medical treatments and choosing the one that consistently gives the best results; that’s 
+what cross-validation does for model selection.”
+
+```
+
+This approach effectively communicates complex concepts to both technical and non-technical audiences, ensuring clarity and comprehension across diverse stakeholders.
+
+---
+
 
 # Next Steps Post-Certification
 
