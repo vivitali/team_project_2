@@ -1,5 +1,4 @@
 ## README TEAM #3
-
 #### VITALII / ADITHYA / AMRIT / SHIYAM
 
 How will you select your dataset?
