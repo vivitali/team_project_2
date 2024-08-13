@@ -1,4 +1,5 @@
 ## README TEAM #3
+
 #### VITALII / ADITHYA / AMRIT / SHIYAM
 
 How will you select your dataset?
@@ -43,12 +44,11 @@ As mentioned earlier, we chose to focus on financial features only (annual incom
 How can we document our machine learning pipeline and model architecture for future reference?
 Code documentation is well-commented and held on a jupyter notebook for easy evaluation. We store this on git to track changes and maintain history of code updates. The original readme file has been left as is, while this readme file serves to allow any new user/viewer of the repository to easily get up to date with the project's objective, data sources, code and results.
 
-
 ### Teams video
 
 [Video link for Adithya's Video Link](https://www.loom.com/share/37a578c34d0e41afae01ef9671634978?sid=1a2f98a2-34b0-4199-89f6-84fc734d8140)
 
-[Vitalii Vasinkevych Video link]
+[Vitalii Vasinkevych Video link](https://www.loom.com/share/b2d7a4e4dd944299ba459caba58dbfd9?sid=4f306fab-cb19-43d6-8673-3ce34364c8a4)
 
 [Amrit Mehta's Video Link]
 
