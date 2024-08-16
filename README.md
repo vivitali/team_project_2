@@ -42,7 +42,7 @@ Are there any ethical implications or biases associated with our machine learnin
 As mentioned earlier, we chose to focus on financial features only (annual income, number of credit inquiries, credit utilization ratio, outstanding debt and credit mix), and did not include any feature data that could imply a bias in the model (name, sex, address, post code). PII data, such as SIN, was excluded as well. Source data was never altered and is fully available. Code for cleaning the features is well documented as well.
 
 How can we document our machine learning pipeline and model architecture for future reference?
-Code documentation is well-commented and held on a jupyter notebook for easy evaluation. We store this on git to track changes and maintain history of code updates. The original readme file has been left as is, while this readme file serves to allow any new user/viewer of the repository to easily get up to date with the project's objective, data sources, code and results.
+Code documentation is well-commented and held on a jupyter notebook for easy evaluation. We store this on git to track changes and maintain history of code updates. The original readme file has been left as is, while this readme file serves to allow any new user/viewer of the repository to easily get up to date with the project's objective, data sources, code and results. We can also export the model into a pickle file for later use and reference.
 
 ### Teams video
 
@@ -50,6 +50,6 @@ Code documentation is well-commented and held on a jupyter notebook for easy eva
 
 [Vitalii Vasinkevych Video link](https://www.loom.com/share/b2d7a4e4dd944299ba459caba58dbfd9?sid=4f306fab-cb19-43d6-8673-3ce34364c8a4)
 
-[Amrit Mehta's Video Link]
+[Amrit Mehta's Video Link](https://drive.google.com/file/d/1T2y689xFTJhnHAmm6FmUNeneE9PqyOb-/view?usp=drive_link)
 
 [Shiyam Mehta's Video Link]
