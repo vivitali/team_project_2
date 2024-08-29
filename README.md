@@ -50,6 +50,6 @@ Code documentation is well-commented and held on a jupyter notebook for easy eva
 
 [Vitalii Vasinkevych Video link](https://www.loom.com/share/b2d7a4e4dd944299ba459caba58dbfd9?sid=4f306fab-cb19-43d6-8673-3ce34364c8a4)
 
-[Amrit Mehta's Video Link]
+[Amrit Mehta's Video Link](https://drive.google.com/file/d/1T2y689xFTJhnHAmm6FmUNeneE9PqyOb-/view?usp=drive_link)
 
 [Shiyam Hoda's Video Link](https://drive.google.com/file/d/11FyUU2QXcE6kXSjNJtvoUI30bu4KLPgU/view?usp=sharing)
